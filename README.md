@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-$ ./build.sh _out
+$ ./generate.sh _out
 $ cd _out
 $ ninja
 ```
